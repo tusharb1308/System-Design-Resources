@@ -72,7 +72,7 @@
 
 35) Checksum: https://lnkd.in/ghNc5pfn
 
-=====================Study these 45 problems well and you have prepared for 99% of your System Design Interview===================
+================Study these 45 problems well and you have prepared for 99% of your System Design Interview=============
 
 𝐄𝐚𝐬𝐲
 1. Design URL Shortener like TinyURL
@@ -126,7 +126,7 @@
 45. Design Distributed Locking Service
 
 
-========================Here are Top 45 with resources to study them (for free)=========================
+================Here are Top 45 with resources to study them (for free)==================
 
 1) Design URL Shortener like TinyURL: https://lnkd.in/gB76Pknt
 
